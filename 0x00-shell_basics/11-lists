@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -la . .. /boot List all files/directories, including hidden files/directories, from 3 separate directories: current directory, parent of working directory, and /boot directory
