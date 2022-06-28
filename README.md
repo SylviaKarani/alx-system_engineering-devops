@@ -1,1 +1,1 @@
-shell basics project
+shell projects
